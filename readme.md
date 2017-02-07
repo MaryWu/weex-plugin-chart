@@ -4,5 +4,5 @@
 
 # demo
 请使用 tnpm install -g weex-chart-demo  
-然后运行weex-chart-demo   
+然后运行weex-chart-demo      
 然后用包含gcanvas的app 扫描二维码即可 
